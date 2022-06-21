@@ -82,7 +82,7 @@ ulong _byteswap_ulong(ulong x)
 
 //configs
 int configPort = 17091;
-string configCDN = "0098/24450/cache/";
+string configCDN = "0098/18818/cache/";
 string configStatic = "ubistatic-a.akamaihd.net";
 
 /***bcrypt***/
